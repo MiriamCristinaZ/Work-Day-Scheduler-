@@ -67,4 +67,4 @@ The app should:
 ## Deployment
 
 The applications is available at the following URL:
-<>
+<https://miriamcristinaz.github.io/Work-Day-Scheduler-/>
